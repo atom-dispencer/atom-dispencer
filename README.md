@@ -12,7 +12,10 @@ Currently, I spend most of my developement time writing C for [UoN-Racing](https
 ### 🌱 My Journey
 
 I started learning aged 9 with the excellent book [Super Scratch Programming Adventure!](https://www.amazon.co.uk/Scratch-Programming-Adventure-Covers-Version/dp/1593274092),
-  then started on Python a few years later to write a [Text-Based Adventure Game](https://github.com/atom-dispencer/codename_TeaBAG) (or TeaBAG for short!).
+  then promptly decided to try writing my own operating system in Scratch! In retrospect, it was more of a game-framework/aggregator and 10-year-old me thought it was 
+  extremely successful, but it (shockingly) never worked...
+  
+I started on Python a few years later to write a [Text-Based Adventure Game](https://github.com/atom-dispencer/codename_TeaBAG) (or TeaBAG for short!).
   Around 2018 I began to learn Java with the goal of writing the [*greatest magic mod ever known to Minecraft!*](https://github.com/atom-dispencer/MagiksMostEvile). Suffice 
   to say, that did not happen, but dealing with 1.7.10-era [Minecraft Forge](https://github.com/minecraftforge) taught me a lot about persistence!
 
