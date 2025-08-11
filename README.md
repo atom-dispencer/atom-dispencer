@@ -21,7 +21,7 @@ I started on Python a few years later to write a [Text-Based Adventure Game](htt
   about persistence!
 
 I worked on several Java projects over the following years, including versions of MagiksMostEvile for multiple Minecraft versions and a self-updating calculator which I wrote
-  because I got bored of `V=IR` calculations doing Physics revision. I helped out making a custom compiler, assembler and package manager for a virtual-computer, then
+  because I got bored of `V=IR` during Physics revision. I helped out making a custom compiler, assembler and package manager for a virtual-computer, then
   decided to make my own! I finished the VM and started on the compiler before I was accosted by [UoN-Racing](https://github.com/uon-fs) and have been writing C ever since...
 
 ...except for a few side projects that is! 😉 
