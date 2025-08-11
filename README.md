@@ -17,7 +17,8 @@ I started learning aged 9 with the excellent book [Super Scratch Programming Adv
   
 I started on Python a few years later to write a [Text-Based Adventure Game](https://github.com/atom-dispencer/codename_TeaBAG) (or TeaBAG for short!).
   Around 2018 I began to learn Java with the goal of writing the [*greatest magic mod ever known to Minecraft!*](https://github.com/atom-dispencer/MagiksMostEvile). Suffice 
-  to say, that did not happen, but dealing with 1.7.10-era [Minecraft Forge](https://github.com/minecraftforge) taught me a lot about persistence!
+  to say, that did not happen, but having to teach myself Gradle and deal with 1.7.10-era [Minecraft Forge](https://github.com/minecraftforge) taught me a <ins>lot</ins> 
+  about persistence!
 
 I worked on several Java projects over the following years, including versions of MagiksMostEvile for multiple Minecraft versions and a self-updating calculator which I wrote
   because I got bored of `V=IR` calculations doing Physics revision. I helped out making a custom compiler, assembler and package manager for a virtual-computer, then
