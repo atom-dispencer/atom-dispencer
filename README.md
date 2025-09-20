@@ -1,7 +1,7 @@
 ## 🪄 Greetings, Adventurer!
 ... And welcome to my corner of GitHub!
 
-I'm Adam - a self-taught programmer, aerospace-engineer-in-training and software lead at [UoN-Racing](https://github.com/uon-fs).
+I'm Adam - a self-taught programmer, aerospace-engineer-in-training and *firmware & control systems* lead at [UoN-Racing](https://github.com/uon-fs).
 
 The first language I learned was... [Scratch!](https://scratch.mit.edu/), but as the job market for that isn't great at the moment, I'm also proficient in C, Python, Java,
   C# and Go; and familiar with Haskell, Kotlin, Lua and [DreamBerd](https://github.com/atom-dispencer/DreamBerd)!
