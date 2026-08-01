@@ -4,9 +4,9 @@
 I'm Adam - a self-taught programmer, aerospace-engineer-in-training and *firmware & control systems* lead at [UoN-Racing](https://github.com/uon-fs).
 
 The first language I learned was... [Scratch!](https://scratch.mit.edu/), but as the job market for that isn't great at the moment, I'm also proficient in C, Python, Java,
-  C# and Go; and familiar with Haskell, Kotlin, Lua and [DreamBerd](https://github.com/atom-dispencer/DreamBerd)!
+  C#; and familiar with Go, Haskell, Kotlin, Lua and [DreamBerd](https://github.com/atom-dispencer/DreamBerd)!
 
-Currently, I spend most of my developement time writing C for [UoN-Racing](https://github.com/uon-fs) (embedded STM32 and systems Win32/Linux/MacOS), but I'd love to spend more time
+Currently, I spend most of my developement time writing C[^1] & Python[^2] for [UoN-Racing](https://github.com/uon-fs) , but I'd love to spend more time
   developing the assembler for my [iAtomSys](https://github.com/atom-dispencer/iAtomSys) project in Haskell!
 
 ### 🌱 My Journey
@@ -29,6 +29,9 @@ I worked on several Java projects over the following years, including versions o
 - [RGB Desklamp](https://gist.github.com/atom-dispencer/20dc906ab530efbbe35309a5eabbe17f) - A Micropython script for my homemade colour-changing lamp!
 - [LED Wave Function Collapse](https://github.com/atom-dispencer/LEDWaveFunctionCollapse) - A Kotlin/Zig library to generate moving patterns on an LED matrix via the
   wave-function-collapse algorithm
+
+[^1]: Embedded STM32, Systems Win32/Linux/MacOS
+[^2]: C code generation, CAN data processing
 
 <!--
 **atom-dispencer/atom-dispencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
