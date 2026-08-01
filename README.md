@@ -6,7 +6,7 @@ I'm Adam - a self-taught programmer, aerospace-engineer-in-training and *firmwar
 The first language I learned was... [Scratch!](https://scratch.mit.edu/), but as the job market for that isn't great at the moment, I'm also proficient in C, Python, Java,
   C# and Go; and familiar with Haskell, Kotlin, Lua and [DreamBerd](https://github.com/atom-dispencer/DreamBerd)!
 
-Currently, I spend most of my developement time writing C for [UoN-Racing](https://github.com/uon-fs) (with Go on our telemetry stack!), but I'd love to spend more time
+Currently, I spend most of my developement time writing C for [UoN-Racing](https://github.com/uon-fs) (embedded STM32 and systems Win32/Linux/MacOS), but I'd love to spend more time
   developing the assembler for my [iAtomSys](https://github.com/atom-dispencer/iAtomSys) project in Haskell!
 
 ### 🌱 My Journey
